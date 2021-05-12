@@ -1,0 +1,7 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Vivado_Projects/CW-3002CEM/CW-3002CEM.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Vivado_Projects/MIPS/mipssingle.sv,1606503522,systemVerilog,,C:/Vivado_Projects/MIPS/mipstest.sv,,adder;alu;aludec;controller;datapath;flopr;maindec;mips;mux2;mux4;regfile;signext;sl2;zeroext,,,,,,,,
+C:/Vivado_Projects/MIPS/mipstest.sv,1606504648,systemVerilog,,,,dmem;imem;testbench;top,,,,,,,,
